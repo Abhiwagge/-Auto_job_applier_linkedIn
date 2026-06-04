@@ -1,0 +1,73 @@
+LinkedIn Job Automation
+
+Overview
+
+LinkedIn Job Automation is a Python-based tool designed to simplify and streamline the job search process. The project helps users discover relevant job opportunities, filter positions based on custom criteria, track applications, and improve efficiency in managing job applications.
+
+Features
+
+- Automated job search and filtering
+- Resume-job matching analysis
+- Custom keyword and location filters
+- Application tracking and status management
+- AI-powered job relevance scoring
+- CSV and Excel export support
+- Configurable search preferences
+
+Technologies Used
+
+- Python
+- Selenium
+- Pandas
+- OpenAI API
+- BeautifulSoup
+- Requests
+- SQLite
+- Jupyter Notebook
+
+Project Structure
+
+linkedin-job-automation/
+│
+├── src/
+├── data/
+├── config/
+├── logs/
+├── notebooks/
+├── requirements.txt
+├── README.md
+└── main.py
+
+Installation
+
+1. Clone the repository
+2. Create a virtual environment
+3. Install dependencies
+
+pip install -r requirements.txt
+
+Usage
+
+python main.py
+
+Skills Demonstrated
+
+- Python Automation
+- Web Automation
+- Data Processing
+- API Integration
+- Artificial Intelligence
+- Software Development
+- Job Search Optimization
+
+Future Enhancements
+
+- Dashboard for application analytics
+- Multi-platform job search support
+- Resume optimization suggestions
+- Email notifications
+- Advanced AI matching algorithms
+
+Disclaimer
+
+This project is intended for educational and personal productivity purposes. Users are responsible for complying with the terms of service of any platform they interact with.
